@@ -14,7 +14,7 @@ global prx
 soldat_localport = 23073
 soldat_server = "217.182.78.135:23080"
 prx = "51.254.44.184:10874"
-useproxy = True
+useproxy = False
 
 global alive
 global tmr
